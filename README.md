@@ -18,7 +18,7 @@ From this directory, run `python -m http.server 8000` and open `http://localhost
 
 ## Deployment
 
-The live project is currently deployed manually with Netlify Drop. Upload the website files with `index.html` at the root. A GitHub commit does not automatically deploy unless a Git integration is configured in Netlify.
+The live `tradingbookshop` project is deployed manually with Netlify Drop. Upload the website files with `index.html` at the root. The older `quant-library` project provides permanent redirects to the current site; do not deploy the website files there. A GitHub commit does not automatically deploy unless a Git integration is configured in Netlify.
 
 The catalogue uses manual inquiry and delivery; it is not an automated payment or download system. Book availability, edition, price, distribution rights and image rights should be verified by the site owner.
 
