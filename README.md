@@ -2,7 +2,7 @@
 
 A trading-book catalogue and reading-guide website with a focus on quantitative finance and systematic trading.
 
-**Live website:** https://quant-library.netlify.app/
+**Live website:** https://tradingbookshop.netlify.app/
 
 ## What's inside
 
