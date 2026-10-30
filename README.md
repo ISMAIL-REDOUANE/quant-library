@@ -1,4 +1,4 @@
-# Quant Library
+# Trading Book
 
 A trading-book catalogue and reading-guide website with a focus on quantitative finance and systematic trading.
 
